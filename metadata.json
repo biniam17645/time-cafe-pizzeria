@@ -1,0 +1,6 @@
+{
+  "name": "Time Cafe & Pizzeria",
+  "description": "Online ordering and live kitchen dispatch management system for Time Cafe & Pizzeria in Asela, Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
